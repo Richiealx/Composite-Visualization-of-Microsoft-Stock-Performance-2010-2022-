@@ -75,12 +75,24 @@ install.packages(c("tidyverse", "lubridate", "scales", "grid", "gridExtra", "vir
 
 -Set your working directory to the folder containing the script and dataset. You can set the working directory in RStudio with the setwd("path/to/your/directory") 
 
-- command, or navigate to Session > Set Working Directory > To Source File Location.
+-command, or navigate to Session > Set Working Directory > To Source File Location.
 
 -Run the script by clicking on the 'Run' button in RStudio or by pressing Ctrl + Enter to execute the entire script or line by line.
 
 ### Step 4: View the Outputs
 As the script runs, it will generate plots and possibly save them to your directory, depending on how the script is configured. Make sure to check the console for any messages or errors during execution.
+
+#### Visualization Outputs
+
+The script generates several plots:
+
+-Time series of closing prices.
+
+-Histogram of daily returns.
+
+-Correlation heatmap of financial metrics.
+
+-Scatter plot of trading volume vs price change.
 
 ### Step 5: Troubleshooting
 
@@ -92,19 +104,6 @@ As the script runs, it will generate plots and possibly save them to your direct
 
 
 By following these steps, you should be able to successfully run the R code and view the visualizations created to analyze Microsoft's stock performance from 2010 to 2022.
-
-
-### Visualization Outputs
-
-The script generates several plots:
-
--Time series of closing prices.
-
--Histogram of daily returns.
-
--Correlation heatmap of financial metrics.
-
--Scatter plot of trading volume vs price change.
 
 
 
