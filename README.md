@@ -38,7 +38,7 @@ The data is preprocessed to convert date strings into date objects, handle missi
 
 ## Instructions for Running the Code
 
-Follow these steps to run the `Visualization.R` script and generate the visualizations for the Microsoft Stock Performance analysis:
+Follow these steps to run the `My Composite Visualization Report.R` script and generate the visualizations for the Microsoft Stock Performance analysis:
 
 ### Prerequisites
 
