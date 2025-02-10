@@ -2,9 +2,12 @@
 Revealing Microsoft Stock Performance and Patterns
 
 # Repository Structure
-README.md: This file, containing project information and instructions.
-My Composite Visualization Report.R: The R script for analysis and visualization.
-msft.csv: The dataset used in the analysis.
+
+-README.md: This file, containing project information and instructions.
+-My Composite Visualization Report.R: The R script for analysis and visualization.
+-msft.csv: The dataset used in the analysis.
+-Visualization Outputs: Chosen Composite Visualization, Microsoft Stock Closing Prices(2010 to 2022), Microsoft Stock Correlation Heatmap, Scatterplot of Trading Volume vs Price Change, Histogram of Microsoft Daily Returns 2010 to 2022 Legend
+
 
 
 
